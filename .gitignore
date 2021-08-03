@@ -24,4 +24,4 @@ yarn-debug.log*
 yarn-error.log*
 
 #others
-notes.md
+/notes.md
